@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Diana Laveena
 - 👀 I’m interested in Machine Learning, NLP, Deep Learning, Python, R and Scala
-- 🌱 I’m currently learning NLP
+- 🌱 I've participated in several kaggle competitions. I've deployed 2 projects
 - 💞️ I’m looking to collaborate on Projects related Machine Learning, NLP, Deep Learning, Python, R and Scala
+- 🎁 I'm looking for a Data Scientist job.
 - 📫 How to reach me dianalaveena63@gmail.com
 
 <!---
