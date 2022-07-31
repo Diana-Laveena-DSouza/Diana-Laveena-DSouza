@@ -6,5 +6,5 @@
 - 📫 How to reach me dianalaveena63@gmail.com
 
 
-GitHub Stats URL:-
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diana-Laveena-DSouza&theme=radical)
