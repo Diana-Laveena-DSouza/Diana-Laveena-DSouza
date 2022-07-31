@@ -7,4 +7,4 @@
 
 
 GitHub Stats URL:-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diana-Laveena-DSouza &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diana-Laveena-DSouza&theme=radical)
